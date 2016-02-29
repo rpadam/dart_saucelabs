@@ -1,6 +1,6 @@
 # Dart SDK with Sauce Connect
 
-FROM rpadam/dart_docker:latest
+FROM rpadam/dart_docker:1.14.2
 
 MAINTAINER Raphael Adam <raphael.adam@workiva.com, raphael912003@gmail.com>
 
